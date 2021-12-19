@@ -32,6 +32,5 @@ Preprocessing - 1 балл
 Построение моделей из коробки и проверка качества - 4 балла
 Настройка гиперпараметров моделей и проверка качества - 4 балла
 
-https://github.com/oort77/OTUS_HW1/blob/main/notebooks/HW1_atom.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/oort77/OTUS_HW1/blob/main/notebooks/HW1_atom.ipynb)
 
