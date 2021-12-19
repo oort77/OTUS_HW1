@@ -32,4 +32,5 @@ Preprocessing - 1 балл
 Построение моделей из коробки и проверка качества - 4 балла
 Настройка гиперпараметров моделей и проверка качества - 4 балла
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oort77/OTUS_HW1/HEAD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
